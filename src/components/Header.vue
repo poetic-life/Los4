@@ -20,7 +20,7 @@
     <!-- 购物车图标 -->
     <div class="cart">
       <a href="#">
-        <span class="iconfont icon-cart-full"></span>
+        <i class="iconfont icon-cart-full"></i>
       </a>
       <i>{{ count }}</i>
     </div>
@@ -29,6 +29,7 @@
 
 <script>
 export default {
+  name:'HeaderWrapper',
     data(){
         return {
             role:['首页','购物','新闻','队员','社区','门票','时间表'],

@@ -17,7 +17,7 @@
         </li>
         <li>
           <router-link to="/mobile">
-            <span class="iconfont icon-mobile"></span>手机版
+            <span class="iconfont icon-mobile-phone"></span>手机版
           </router-link>
         </li>
       </ul>
