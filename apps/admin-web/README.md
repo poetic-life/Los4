@@ -6,8 +6,8 @@
 
 ## Prerequisites
 
-- Node.js 18+
-- npm 9+
+- Node.js 22+
+- npm 10+
 - 已在 `http://localhost:8082` 启动 Admin API
 - 若页面展示上传资源，需在 `http://localhost:8081` 启动 Primary API
 

@@ -30,8 +30,8 @@ los/
 
 ## Prerequisites
 
-- Node.js 18 或更高版本
-- npm 9 或更高版本
+- Node.js 22 或更高版本
+- npm 10 或更高版本
 - Java 8
 - Maven 3.9
 - MySQL 8
